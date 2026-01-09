@@ -20,5 +20,4 @@ This project is a redesigned marketing website for Get-Ryze.ai built using React
 - CSS
 - React Router
 
-## Live Demo
-<PASTE DEPLOYED LINK HERE>
+## Live Demo (https://rezy-redesign-111c5f.netlify.app/)
